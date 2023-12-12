@@ -1,0 +1,56 @@
+
+.navbar2{
+    width: 1400px;
+    opacity: 0.5;
+    margin-left: 70px;
+    border-radius: 10px;
+    background-color: #fffdfd;
+    
+    
+}
+.frame{
+    background-image: url("https://i.hizliresim.com/ggb3hps.jpg");
+    width: 100%;
+    height: 100%;
+   
+}
+.customerProfile{
+    width: 60px;
+    height: 40px;
+    margin-left: 1000px;
+ 
+}
+.fileButton{
+  background-color: #6f6f6f;
+  border-radius: 5px;
+  color: white;
+  width: 80px;
+  height: 40px;
+}
+.fileButton:hover{
+    background-color: white;
+    color: black;
+}
+.file{
+    background-color:  #dbd4d4;
+   
+}
+.uploadIcon{
+    width: 30px;
+    margin-top: 20px;
+
+}
+.imgFile{
+    
+    width: 200px;
+    margin-left: 70px;
+}
+.description{
+    background-color: rgb(210, 205, 205);
+    border-radius: 4px;
+   
+}
+.btn{
+    background-color: rgb(143, 143, 143);
+    margin-left: 20px;
+}

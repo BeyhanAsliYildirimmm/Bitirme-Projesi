@@ -1,0 +1,20 @@
+
+.nav-link {
+  padding: 10px;
+  border: 1px solid;
+  border-radius: 5px;
+  border-color: gray;
+  margin: 5px;
+  
+}
+
+.mobile-menu-icon{
+  display: none;
+
+}
+#singin{
+  margin-left: 1200px;
+}
+#home{
+  margin-left: 20px;
+}
